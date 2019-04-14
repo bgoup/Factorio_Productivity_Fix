@@ -1,7 +1,6 @@
 Removes restrictions on placing productivity modules in beacons and assemblers with non intermediate products.
 
 Config options for enabling/disabling beacon and assembler changes under the startup tab, both are enabled by default. The mod should work with any standard modded assemblers.
-Support for [Bob's modules](https://mods.factorio.com/mod/bobmodules)' god modules.
 
 Inspired by:
 
