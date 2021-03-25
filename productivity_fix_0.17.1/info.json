@@ -1,0 +1,10 @@
+{
+  "name": "productivity_fix",
+  "version": "0.17.1",
+  "factorio_version": "0.17",
+  "title": "Productivity Fix",
+  "author": "goupkook",
+  "contact": "",
+  "description": "Allows productivity non intermediates and beacons",
+  "dependencies": ["base >= 0.17"]
+} 
