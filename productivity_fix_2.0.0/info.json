@@ -1,0 +1,14 @@
+{
+	"name": "productivity_fix",
+	"version": "2.0.0",
+	"factorio_version": "2.0",
+	"title": "Productivity Fix",
+	"author": "goupkook",
+	"contact": "",
+	"description": "Selectivly allows productivity and quality modules in beacons, productivity in all recipies and in recyclers.",
+	"dependencies": [
+	"base >= 2.0",
+	"? quality >= 2.0"
+	]
+} 
+
